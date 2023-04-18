@@ -1,0 +1,28 @@
+File: 1.txt
+It is Syntactically Correct!
+
+File: 2.txt
+It is Syntactically Correct!
+
+File: 3.txt
+It is Syntactically Correct!
+
+File: 4.txt
+7 errors found!
+Line and Index (1,27)- Invalid Symbol
+Line and Index (1,29)- Invalid Symbol
+Line and Index (1,33)- Invalid Symbol
+Line and Index (1,39)- Invalid Symbol
+Line and Index (1,41)- Invalid Character
+Line and Index (1,42)- No ending '
+Line and Index (1,42)- Not a Term List
+
+
+File: 5.txt
+1 error found!
+Line and Index (3,20)- Not a Term List
+
+
+File: 6.txt
+1 error found!
+Line and Index (1,10)- Not a Term List
